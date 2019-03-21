@@ -1,0 +1,26 @@
+.jumbotron {
+    background: url('/1050.jpg') no-repeat center center;
+    min-height: 800px;
+    background-size:100%;
+    text-align: center;
+}
+.navbar{
+    color: #3F09BB;
+}
+#about{
+padding:20px;
+}
+.footer{
+    padding: 10px;
+}
+#block{
+    padding:0px;
+}
+.jumbotron .container button {
+  text-align: center;
+  position: fixed;
+  }
+  .jumbotron .container{
+      height: 100px;
+  }
+ 
